@@ -1,6 +1,6 @@
 
 # MoMo SMS Transaction Analyzer
-**Team:**InfraCore
+Team:InfraCore
 **Team Members:**
 - Mukamukiza Milliam
 - Umutoni Nada
@@ -11,4 +11,4 @@ This is the application that processes MOMO SMS transaction data from XML format
 ## Architecture
 
 ## Scrum Board
-
+https://github.com/users/Dedine-Mukabucyana/projects/1/views/1
