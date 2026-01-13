@@ -1,16 +1,16 @@
 
 # MoMo SMS Transaction Analyzer
 Team:InfraCore
-**Team Members:
+Team Members:
 - Mukamukiza Milliam- Github: mmukamukiza21
 - Umutoni Nada - Github: Umutoni123-aa
 - Mukabucyana Dedine - Github:Dedine-Mukabucyana
 
 Project Overview
 
-This project is an enterprise-level fullstack application designed to process Mobile Money (MoMo) SMS data provided in XML format. The system extracts raw SMS data, cleans and normalizes it, categorizes transactions, stores the results in a relational database (SQLite), and presents meaningful insights through a frontend dashboard.
+This project is an enterprise-level fullstack application designed to process Mobile Money (MoMo) SMS data provided in XML format. The system extracts raw SMS data, cleans and normalizes it, categorizes transactions, stores the results in a relational database (SQLite), and presents insights through a frontend dashboard.
 
-The application is built using a modular ETL (Extract, Transform, Load) pipeline and follows Agile and collaborative development practices. It enables users to analyze transaction behavior such as incoming funds, outgoing payments, fees, and balances through tables and visualizations.
+The application is built using a modular ETL (Extract, Transform, Load) pipeline and follows Agile and collaborative development practices. It enables users to analyze transaction such as incoming funds, outgoing payments, fees, and balances.
 
 This project demonstrates skills in:
 
@@ -22,7 +22,6 @@ This project demonstrates skills in:
 
 Objectives:
 
-.Parse MoMo SMS data from XML files
 .Clean and normalize transaction data (amounts, dates, phone numbers)
 .Categorize transactions using rule-based logic
 .Store structured data in a relational database
@@ -49,10 +48,7 @@ Dashboard Features:
 4.Time-based trends
 5.Clean and readable tables and charts
 
-*Scrum & Collaboration
-
-We use Agile practices to manage development.
-
+*Scrum Board Link
 Scrum Board: https://github.com/users/Dedine-Mukabucyana/projects/1/views/1
 
 Board Columns:
@@ -76,13 +72,11 @@ Future Improvements:
 .Deployment to cloud platform
 .Support for multiple XML files
 
-License:
-
-This project is for educational purposes as part of a continuous formative assessment.
-
 Contact
 
 For questions or collaboration, contact any team member via GitHub or through our emails
 - m.mukamukiz@alustudent.com
+  
 -U.nada@alustudent.com
+
 -d.mukabucya@alustudent.com
