@@ -76,7 +76,5 @@ Contact
 
 For questions or collaboration, contact any team member via GitHub or through our emails
 - m.mukamukiz@alustudent.com
-  
--U.nada@alustudent.com
-
--d.mukabucya@alustudent.com
+- U.nada@alustudent.com
+- d.mukabucya@alustudent.com
