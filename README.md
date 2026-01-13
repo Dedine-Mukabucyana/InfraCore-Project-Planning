@@ -1,10 +1,11 @@
 
 # MoMo SMS Transaction Analyzer
 Team:InfraCore
+
 Team Members:
 - Mukamukiza Milliam- Github: mmukamukiza21
-- Umutoni Nada - Github: Umutoni123-aa
-- Mukabucyana Dedine - Github:Dedine-Mukabucyana
+-  Umutoni Nada - Github: Umutoni123-aa
+-  ukabucyana Dedine - Github:Dedine-Mukabucyana
 
 Project Overview
 
@@ -14,42 +15,42 @@ The application is built using a modular ETL (Extract, Transform, Load) pipeline
 
 This project demonstrates skills in:
 
-.Backend data processing (Python)
-.Database design and management (SQLite)
-.Frontend development (HTML, CSS, JavaScript)
-.System architecture design
-.Agile teamwork and GitHub collaboration
+- Backend data processing (Python)
+- Database design and management (SQLite)
+- Frontend development (HTML, CSS, JavaScript)
+- System architecture design
+- Agile teamwork and GitHub collaboration
 
 Objectives:
 
-.Clean and normalize transaction data (amounts, dates, phone numbers)
-.Categorize transactions using rule-based logic
-.Store structured data in a relational database
-.Generate processed JSON outputs for frontend use
-.Build a simple dashboard to visualize analytics
-.Practice collaborative development using GitHub and Scrum
+- Clean and normalize transaction data (amounts, dates, phone numbers)
+- Categorize transactions using rule-based logic
+- Store structured data in a relational database
+- Generate processed JSON outputs for frontend use
+- Build a simple dashboard to visualize analytics
+- Practice collaborative development using GitHub and Scrum
 
 High-Level System Architecture
 
 The system follows a layered architecture:
 
-1.Input Layer – Raw MoMo XML SMS data
-2.ETL Layer – Parsing, cleaning, categorization, and loading
-3.Storage Layer – SQLite relational database
-4.API Layer (Optional Bonus) – FastAPI endpoints for data access
-5.Frontend Layer – Static dashboard for analytics and visualization
+- Input Layer – Raw MoMo XML SMS data
+- ETL Layer – Parsing, cleaning, categorization, and loading
+- Storage Layer – SQLite relational database
+- API Layer (Optional Bonus) – FastAPI endpoints for data access
+- Frontend Layer – Static dashboard for analytics and visualization
 
  Architecture Diagram:https:https://app.diagrams.net/#G1xHlqE2nJ76NpQQUFHjheOVsuLMVtMwWJ#%7B%22pageId%22%3A%22-d79H1NVxJkwPVFQFf-x%22%7D
 
 Dashboard Features:
-1.Total transactions summary
-2.Incoming vs outgoing money
-3.Transaction categories (payments, transfers, fees)
-4.Time-based trends
-5.Clean and readable tables and charts
+- Total transactions summary
+- Incoming vs outgoing money
+- Transaction categories (payments, transfers, fees)
+- Time-based trends
+- Clean and readable tables and charts
 
 *Scrum Board Link
-Scrum Board: https://github.com/users/Dedine-Mukabucyana/projects/1/views/1
+- Scrum Board: https://github.com/users/Dedine-Mukabucyana/projects/1/views/1
 
 Board Columns:
 
