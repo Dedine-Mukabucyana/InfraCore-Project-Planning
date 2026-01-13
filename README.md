@@ -1,5 +1,7 @@
-# InfraCore-Project-Planning
-**Team Members:**
+
+# MoMo SMS Transaction Analyzer
+Team:InfraCore
+**Team Members:
 - Mukamukiza Milliam- Github: mmukamukiza21
 - Umutoni Nada - Github: Umutoni123-aa
 - Mukabucyana Dedine - Github:Dedine-Mukabucyana
