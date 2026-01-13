@@ -40,7 +40,8 @@ The system follows a layered architecture:
 - API Layer (Optional Bonus) – FastAPI endpoints for data access
 - Frontend Layer – Static dashboard for analytics and visualization
 
- Architecture Diagram:https:https://app.diagrams.net/#G1xHlqE2nJ76NpQQUFHjheOVsuLMVtMwWJ#%7B%22pageId%22%3A%22-d79H1NVxJkwPVFQFf-x%22%7D
+ Architecture Diagram Link:
+ - https://app.diagrams.net/#G1xHlqE2nJ76NpQQUFHjheOVsuLMVtMwWJ#%7B%22pageId%22%3A%22-d79H1NVxJkwPVFQFf-x%22%7D
 
 Dashboard Features:
 - Total transactions summary
